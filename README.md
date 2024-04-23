@@ -1,6 +1,6 @@
 # ASL Sign Language to Text Converter
 
-![Uploading image.png…]()
+[https://i.pinimg.com/originals/6a/dc/6a/6adc6a4018d5e1b69e7553ee704adb41.gif](https://c.tenor.com/yuF0336-WugAAAAM/signing-sign-language.gif)
 
 ## Introduction
 This project aims to develop a real-time sign language to text converter using computer vision techniques, particularly OpenCV. The system detects hand gestures representing American Sign Language (ASL) signs and translates them into corresponding text characters.
