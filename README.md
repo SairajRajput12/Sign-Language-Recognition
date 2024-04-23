@@ -1,6 +1,6 @@
 # ASL Sign Language to Text Converter
 
-[![image](https://github.com/SairajRajput12/Sign-Language-Recognition/assets/125473711/742cd043-ba29-4566-aa7a-9e124cbf7473)]
+[![image]([https://th.bing.com/th/id/OIP.brQ3j2WgSA2Ywp2EQqvXlwHaEH?rs=1&pid=ImgDetMain])]
 
 
 ## Introduction
